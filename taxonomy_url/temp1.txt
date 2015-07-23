@@ -1,0 +1,6 @@
+bed
+covers
+furnishing
+cushion
+home
+pillow
